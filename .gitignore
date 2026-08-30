@@ -1,0 +1,12 @@
+*.jou
+*.log
+*.str
+*.zip
+.xill/
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.backup.log
